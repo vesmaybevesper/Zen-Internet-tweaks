@@ -39,6 +39,7 @@ section,
 .btm-nav > a,
 body.dark_mode,
 body.light_mode,
+.project-card,
 text-div > textarea {
   background-color: transparent !important;
   background: none !important;
