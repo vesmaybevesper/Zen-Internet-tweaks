@@ -73,3 +73,7 @@ footer {
   border: 0px !important;
   box-shadow: none !important;
 }
+/*project cards*/
+.project-card {
+  background-color: transparent !important;
+}
