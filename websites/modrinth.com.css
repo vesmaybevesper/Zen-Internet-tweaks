@@ -75,5 +75,6 @@ footer {
 }
 /*project cards*/
 .project-card {
-  background-color: transparent !important;
+  /*background-color: transparent !important;*/
+  opacity: 0.1 !important;
 }
