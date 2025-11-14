@@ -1894,8 +1894,7 @@
       "no footer": "footer {\n  display: none !important;\n}",
       "no border around project icons": ".avatar {\n  background: none !important;\n  border: 0px !important;\n  box-shadow: none !important;\n}",
       "project cards": ".project-card {\n  background: light-dark(#fff8, #0005) !important;\n transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
-      "flex cards": ".flex-card {\n  background: light-dark(#fff8, #0005) !important;\n transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
-      "flex wrap": ".flex-wrap {\n  background: light-dark(#fff8, #0005) !important;\n transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}"
+      "flex cards": ".flex-card {\n  background: light-dark(#fff8, #0005) !important;\n transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}"
     },
     "monkeytype.com.css": {
       "transparency": "html, body, nav, header, .app-root, #pass-sidebar, #main, #content, section {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
