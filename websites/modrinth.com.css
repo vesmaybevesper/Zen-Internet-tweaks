@@ -110,7 +110,7 @@ footer {
       box-shadow 0.5s ease-in-out !important;
 }
 
-.graphs__main-graph {
+.universal-card {
   background-color: light-dark(#fff8, #0005) !important;
   transition:
       background-color 0.5s ease-in-out,
