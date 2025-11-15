@@ -625,3 +625,7 @@ ytlr-compact-link-renderer {
   backdrop-filter: blur(10px) !important;
   background-color: #0007 !important;
 }
+
+.ytd-reel-shelf-renderer {
+  display: none !important;
+}
