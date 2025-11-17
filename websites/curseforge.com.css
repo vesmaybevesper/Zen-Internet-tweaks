@@ -14,3 +14,7 @@ body {
 .game-header {
   display: none !important;
 }
+
+.project-actions {
+    background-color: light-dark(#fff8, #0007) !important;
+}
