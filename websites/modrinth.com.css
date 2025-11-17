@@ -130,6 +130,7 @@ footer {
 
 .country-values {
   background-color: light-dark(#fff8, #0007) !important;
+  border: none !important;
   transition:
       background-color 0.5s ease-in-out,
       background 0.5s ease-in-out,
