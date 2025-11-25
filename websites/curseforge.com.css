@@ -15,6 +15,10 @@ body {
   display: none !important;
 }
 
+.curseforge-header {
+  background-color: none !important;
+}
+
 .project-actions {
     background-color: light-dark(#0005, #0005) !important;
 }

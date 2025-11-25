@@ -911,7 +911,8 @@
     "curseforge.com.css": {
       "transparency": "html body {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
       "project actions": ".project-actions {\n    background-color: light-dark(#0005, #0005) !important;\n}",
-      "game-header": ".game-header {\n  display: none !important;\n}"
+      "game-header": ".game-header {\n  display: none !important;\n}",
+      "header": ".curseforge-header {\n  background-color: none !important;\n}"
     },
     "dash.cloudflare.com.css": {
       "cloudflare-transparency": "html, body, nav, header, aside, [aria-label=\"Collapse sidebar\"], [aria-label=\"Expand sidebar\"], div.c_if {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
